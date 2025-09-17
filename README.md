@@ -20,4 +20,4 @@ Clone the repository
    ```bash
    git clone https://github.com/your-username/atm-machine.git
 ## screenshot
-![image alt](")
+![image alt]("WhatsApp Image 2025-09-17 at 3.24.42 PM.jpeg")
